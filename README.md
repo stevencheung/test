@@ -1,6 +1,6 @@
 ## Welcome to Steven's Test Page
 
-I'm a security researcher at the [Computer Science Lab of SRI](https://www.csl.sri.com).
+I'm a security researcher at the Computer Science Lab of [SRI International](https://www.sri.com).
 
 ### DNS over HTTPS (DoH)
 
